@@ -1,0 +1,29 @@
+---
+namespace: my_own_namespace
+name: yandex_cloud_elk
+version: 1.0.0
+
+readme: README.md
+
+authors:
+  - kumarina-max
+
+description: Ansible collection with a custom module for creating and updating text files
+
+license:
+  - MIT
+
+tags:
+  - ansible
+  - module
+  - custom
+  - file
+
+dependencies: {}
+
+repository: https://github.com/kumarina-max/my_own_collection
+documentation: https://github.com/kumarina-max/my_own_collection
+homepage: https://github.com/kumarina-max/my_own_collection
+issues: https://github.com/kumarina-max/my_own_collection/issues
+
+build_ignore: []

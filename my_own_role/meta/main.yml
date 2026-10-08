@@ -1,0 +1,13 @@
+# SPDX-License-Identifier: MIT
+---
+galaxy_info:
+  author: kumarina-max
+  description: Role for creating and updating a text file using a custom Ansible module
+  license: MIT
+  min_ansible_version: 2.19
+  galaxy_tags:
+    - ansible
+    - custom
+    - module
+    - file
+dependencies: []
