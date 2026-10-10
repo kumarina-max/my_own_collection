@@ -167,8 +167,8 @@ MIT
 
 ![Скриншот задачи 4](screenshots/task4.png)
 
-![Скриншот задачи 6](task5.png)
+![Скриншот задачи 6](screenshots/task6.png)
 
-![Скриншот задачи 15](task5.png)
+![Скриншот задачи 15](screenshots/task15.png)
 
-![Скриншот задачи 16](task5.png)
+![Скриншот задачи 16](screenshots/task16.png)
