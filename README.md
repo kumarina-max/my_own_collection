@@ -163,12 +163,16 @@ https://github.com/kumarina-max/my_own_collection
 MIT
 
 
-## Скриншоты выполнения пунктов 4, 6, 15 и 16.
+## Скриншоты выполнения пунктов задания.
 
+### Пункт 4
 ![Скриншот задачи 4](screenshots/task4.png)
 
+### Пункт 6
 ![Скриншот задачи 6](screenshots/task6.png)
 
+### Пункт 15
 ![Скриншот задачи 15](screenshots/task15.png)
 
+### Пункт 16
 ![Скриншот задачи 16](screenshots/task16.png)
