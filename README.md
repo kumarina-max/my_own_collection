@@ -161,6 +161,10 @@ Ansible Collection с собственным модулем для создан�
 
 https://github.com/kumarina-max/my_own_collection
 
+## Ссылка на tar.gz архив
+
+https://github.com/kumarina-max/my_own_collection/releases/download/1.0.0/my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz 
+
 ## Лицензия
 
 MIT
